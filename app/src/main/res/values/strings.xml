@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz app Project</string>
+    <string name="LabelCenterButton">SUBMIT QUIZ</string>
+    <string name="Title">Space Quiz</string>
+    <string name="Question1">1.- How many moons are in Jupiter?</string>
+    <string name="Question2">2.- What are the name(s) of Mars\' moons?</string>
+    <string name="Answer1">There are 69 moons in Jupiter</string>
+    <string name="Answers2">Mars has two moons: Phobos and Deimos</string>
+    <string name="Question3">3.- How many days would it take to reach mars?</string>
+    <string name="Answers3">Mars is one light year from Earth</string>
+    <string name="Question4">4.- How many days are in Saturn year?</string>
+    <string name="Answers4">It will take around 10,585 days or 29 years for Saturn to go around the sun</string>
+    <string name="Question5">5.- What is the name of the closest galaxy to us?</string>
+    <string name="Answers5">The closest galaxy to us is called Andromeda</string>
+    <string name="ScoreMessage">Your total score is:</string>
+</resources>
